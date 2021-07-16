@@ -4,10 +4,13 @@ This python file lets you get information from games on the steam store,
 
 How to use:
 
+open main.py on your favorite IDE or text editor and type your steam api key that you can get here for free: https://steamcommunity.com/dev/apikey on the api_key variable as a string, it should look like this.
+
+api_key = "2BNDOEODEHDE3278" (this is not an actual api key)
+
 Enter this command on your terminal:
 
 - python main.py {game name}
-- wait
 
 Ex: 
 
