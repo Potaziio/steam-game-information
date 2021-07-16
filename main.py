@@ -8,7 +8,7 @@ argv.pop(0)
 
 query = " ".join(i for i in argv)
 
-api_key = "BA9B426CFBE18C92A921E6B9487B83D6"
+api_key = ""
 
 url = f"https://api.steampowered.com/IStoreService/GetAppList/v1/?key={api_key}&max_results=50000"
 
